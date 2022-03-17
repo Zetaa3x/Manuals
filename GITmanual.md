@@ -58,5 +58,20 @@ installing github cli - on windows using choco
 choco install gh
 
 
+=======
+Data types
+=======
+Bytes - 0-255 range value, kind of similar to bytes in C where the value 
+	represents a character in ASCII code 
+=======
+SOME GOOD RESOURCES
+=======
+Git - About & Official Documentation
+https://git-scm.com/about
+
+Github - Official doc 
+https://docs.github.com/en
+
+
 
 
